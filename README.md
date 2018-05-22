@@ -3,8 +3,6 @@
 This demonstrates the use of MicroPython driving an OLED display based
 on the SSD1306 chip, which uses the I2C interface.
 
-It 
-
 This demo was written for the Adafruit Huzzah Feather board but can 
 easily be adapted for any ESP8266 board.
 
